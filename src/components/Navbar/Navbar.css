@@ -1,0 +1,15 @@
+nav {
+  height: 60px;
+  background-color: coral;
+  padding: 0 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.navlink {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: 700;
+}
